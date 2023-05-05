@@ -1,0 +1,10 @@
+.dummy{
+	color : rgb(58, 12, 224);
+}
+.padding{
+	padding: 2%;
+}
+.slds-text-align_center {
+    display: flex;
+    justify-content: center;
+}
